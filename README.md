@@ -29,37 +29,69 @@ Luiz Eduardo da Silva
 🗓️ Cronograma 2025
 Aula	Data	Conteúdo
 1	24/02	Apresentação da disciplina
+
 2	25/02	Algoritmos e linguagens de programação
+
 3	10/03	O computador simplificado
+
 4	11/03	Exercícios do computador simplificado
+
 5	17/03	Variáveis, constantes e expressões
+
 6	18/03	Exercícios
+
 7	24/03	Entrada, saída e atribuição
+
 8	25/03	Exercícios
+
 9	31/03	Comandos de seleção (condicionais)
+
 10	01/04	Exercícios
+
 11	07/04	Exercícios
+
 12	08/04	Comandos de repetição
+
 13	14/04	Exercícios
+
 14	15/04	Exercícios
+
 15	22/04	📌 Primeira Avaliação (A1)
+
 16	28/04	Estrutura de dados homogêneas
+
 17	29/04	Vetores e Matrizes
+
 18	05/05	Exercícios
+
 19	06/05	Ponteiros
+
 20	12/05	Estrutura de dados heterogêneas (structs)
+
 21	13/05	Exercícios
+
 22	19/05	Funções e procedimentos
+
 23	20/05	Exercícios
+
 24	26/05	Passagem de parâmetros
+
 25	27/05	Exercícios
+
 26	02/06	Arquivos (texto e binários)
+
 27	03/06	Exercícios
+
 28	09/06	📌 Segunda Avaliação (A2)
+
 29	10/06	📌 Prova Especial (caso necessário)
+
 30	16/06	📌 Prova de Recuperação (caso necessário)
+
 📊 Avaliação
+
 Avaliação	Data estimada	Peso	Observações
+
 Primeira Avaliação	A partir de 22/04	1	Conteúdos iniciais até comandos de repetição
 Segunda Avaliação	A partir de 09/06	1	Conteúdos restantes até arquivos
 Prova Especial	A partir de 10/06	–	Substitui uma das avaliações perdidas
