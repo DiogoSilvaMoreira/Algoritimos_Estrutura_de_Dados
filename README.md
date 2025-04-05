@@ -27,77 +27,79 @@ Luiz Eduardo da Silva
     Edição, compilação, execução e depuração de programas
 
 🗓️ Cronograma 2025
-Aula	Data	Conteúdo
-1	24/02	Apresentação da disciplina
 
-2	25/02	Algoritmos e linguagens de programação
+              Aula	Data	Conteúdo
 
-3	10/03	O computador simplificado
+       1	24/02	Apresentação da disciplina
 
-4	11/03	Exercícios do computador simplificado
+       2	25/02	Algoritmos e linguagens de programação
 
-5	17/03	Variáveis, constantes e expressões
+       3	10/03	O computador simplificado
 
-6	18/03	Exercícios
+        4	11/03	Exercícios do computador simplificado
 
-7	24/03	Entrada, saída e atribuição
+        5	17/03	Variáveis, constantes e expressões
 
-8	25/03	Exercícios
+        6	18/03	Exercícios
 
-9	31/03	Comandos de seleção (condicionais)
+        7	24/03	Entrada, saída e atribuição
 
-10	01/04	Exercícios
+        8	25/03	Exercícios
 
-11	07/04	Exercícios
+        9	31/03	Comandos de seleção (condicionais)
 
-12	08/04	Comandos de repetição
+        10	01/04	Exercícios
 
-13	14/04	Exercícios
+        11	07/04	Exercícios
 
-14	15/04	Exercícios
+        12	08/04	Comandos de repetição
 
-15	22/04	📌 Primeira Avaliação (A1)
+        13	14/04	Exercícios
 
-16	28/04	Estrutura de dados homogêneas
+        14	15/04	Exercícios
 
-17	29/04	Vetores e Matrizes
+        15	22/04	📌 Primeira Avaliação (A1)
 
-18	05/05	Exercícios
+        16	28/04	Estrutura de dados homogêneas
 
-19	06/05	Ponteiros
+        17	29/04	Vetores e Matrizes
 
-20	12/05	Estrutura de dados heterogêneas (structs)
+        18	05/05	Exercícios
 
-21	13/05	Exercícios
+        19	06/05	Ponteiros
 
-22	19/05	Funções e procedimentos
+        20	12/05	Estrutura de dados heterogêneas (structs)
 
-23	20/05	Exercícios
+        21	13/05	Exercícios
+        
+        22	19/05	Funções e procedimentos
 
-24	26/05	Passagem de parâmetros
+        23	20/05	Exercícios
 
-25	27/05	Exercícios
+        24	26/05	Passagem de parâmetros
 
-26	02/06	Arquivos (texto e binários)
+        25	27/05	Exercícios
 
-27	03/06	Exercícios
+        26	02/06	Arquivos (texto e binários)
 
-28	09/06	📌 Segunda Avaliação (A2)
+        27	03/06	Exercícios
 
-29	10/06	📌 Prova Especial (caso necessário)
+        28	09/06	📌 Segunda Avaliação (A2)
 
-30	16/06	📌 Prova de Recuperação (caso necessário)
+        29	10/06	📌 Prova Especial (caso necessário)
+
+        30	16/06	📌 Prova de Recuperação (caso necessário)
 
 📊 Avaliação
 
-Avaliação	Data estimada	Peso	Observações
+    Avaliação	Data estimada	Peso	Observações
 
-Primeira Avaliação	A partir de 22/04	1	Conteúdos iniciais até comandos de repetição
-Segunda Avaliação	A partir de 09/06	1	Conteúdos restantes até arquivos
-Prova Especial	A partir de 10/06	–	Substitui uma das avaliações perdidas
-Recuperação Final	A partir de 16/06	–	Para alunos que não atingirem a média final
+    Primeira Avaliação	A partir de 22/04	1	Conteúdos iniciais até comandos de repetição
+    Segunda Avaliação	A partir de 09/06	1	Conteúdos restantes até arquivos
+    Prova Especial	A partir de 10/06	–	Substitui uma das avaliações perdidas
+    Recuperação Final	A partir de 16/06	–	Para alunos que não atingirem a média final
 
-Nota Final = (A1 + A2) / 2
+    Nota Final = (A1 + A2) / 2
 
     💡 A recuperação é oferecida apenas após a prova especial, caso o aluno ainda não atinja a média mínima para aprovação.
 
